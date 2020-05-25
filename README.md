@@ -1,7 +1,7 @@
 # Career-tips
-💡Career tips for Software Engineers and Recruiters
+💡 Career tips for Software Engineers and Recruiters 💡
 
-## General:
+## General📚:
 * My journey into Software Engineering: https://www.linkedin.com/pulse/my-journey-software-engineering-ela-mo%C5%9Bcicka/  
 * "Idealny Kandydat?" - for Recruiters and Software Engineers. We discussed recruitment process at Microsoft, CV, Social Media, work with Hiring Managers, building personal brand online & more. Podcast in Polish language only: https://devsession.pl/idealny-kandydat-ela-moscicka/  
 * Want to work at Microsoft? You need to read this: https://www.linkedin.com/posts/elamoscicka_want-to-work-at-microsoft-you-need-to-read-activity-6564764703942332416-OTkS/  
