@@ -1,5 +1,5 @@
 # Career-tips
-💡 Career tips for Software Engineers and Recruiters 💡
+💡  Career tips for Software Engineers and Recruiters 💡
 
 ## General📚
 * My journey into Software Engineering: https://www.linkedin.com/pulse/my-journey-software-engineering-ela-mo%C5%9Bcicka/  
