@@ -2,7 +2,7 @@
 💡  Career tips for Software Engineers and Recruiters 💡
 
 ## General📚
-* My journey into Software Engineering: https://www.linkedin.com/pulse/my-journey-software-engineering-ela-mo%C5%9Bcicka/  
+* My journey into Software Engineering: https://elaintech.com/2020/12/20/my-journey-into-software-engineering/  
 * "Idealny Kandydat?" - for Recruiters and Software Engineers. We discussed recruitment process at Microsoft, CV, Social Media, work with Hiring Managers, building personal brand online & more. Podcast in Polish language only: https://devsession.pl/idealny-kandydat-ela-moscicka/  
 * Want to work at Microsoft? You need to read this: https://www.linkedin.com/posts/elamoscicka_want-to-work-at-microsoft-you-need-to-read-activity-6564764703942332416-OTkS/  
 * Few websites where you can learn coding for FREE: https://www.linkedin.com/posts/elamoscicka_coding-udacity-coding-activity-6646317635426410496-_x8H/  
@@ -18,7 +18,7 @@
 
 
 ## Social media / CV📋
-* Not sure how your LinkedIn profile should look like? Here are social media profiles that you should check: https://www.linkedin.com/posts/elamoscicka_linkedin-careerintech-career-activity-6653551721555599361-PRvN/   
+* Not sure what your LinkedIn profile should look like? Here are social media profiles that you should check: https://www.linkedin.com/posts/elamoscicka_linkedin-careerintech-career-activity-6653551721555599361-PRvN/   
 * When it's a good time to start building your personal brand (and why you should care about it?): https://www.linkedin.com/posts/elamoscicka_personalbrand-100daysofcode-301daysofcode-activity-6676387196192206848-zOXY  
 * Adding additional activity: https://www.linkedin.com/posts/elamoscicka_candidates-meetup-tech-activity-6566938700264148993-sWSF/ 
 * Photo in CV? https://www.linkedin.com/posts/elamoscicka_photo-photographer-100daysofcode-activity-6628196521097736192-t7Ic/  
@@ -31,5 +31,5 @@
 
 
 ## Recruiters🧙🏻
-* Tips on increasing your knowledge and tech skills!: https://www.linkedin.com/posts/elamoscicka_tips-on-increasing-your-knowledge-and-tech-activity-6598122691709022208-RcJu/  
+* Tips on increasing your knowledge and tech skills!: https://elaintech.com/2021/03/01/recruiter-sourcer-tips-increasing-knowledge-and-tech-skills/  
 * 6 tips to build a great working relationship with Hiring Managers: https://www.linkedin.com/feed/update/urn:li:activity:6658267225100820480/  
