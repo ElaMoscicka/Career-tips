@@ -18,7 +18,7 @@
 
 
 ## Social media / CV📋
-* Not sure what your LinkedIn profile should look like? Here are social media profiles that you should check: https://www.linkedin.com/posts/elamoscicka_linkedin-careerintech-career-activity-6653551721555599361-PRvN/   
+* Not sure what your LinkedIn profile should look like? Here's my post with 14 tips on how you can improve it!: https://elaintech.com/2020/12/20/14-tips-to-get-the-most-out-of-your-linkedin-profile/
 * When it's a good time to start building your personal brand (and why you should care about it?): https://www.linkedin.com/posts/elamoscicka_personalbrand-100daysofcode-301daysofcode-activity-6676387196192206848-zOXY  
 * Adding additional activity: https://www.linkedin.com/posts/elamoscicka_candidates-meetup-tech-activity-6566938700264148993-sWSF/ 
 * Photo in CV? https://www.linkedin.com/posts/elamoscicka_photo-photographer-100daysofcode-activity-6628196521097736192-t7Ic/  
