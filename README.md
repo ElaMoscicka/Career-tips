@@ -8,9 +8,11 @@
 * Want to work at Microsoft? You need to read this: https://www.linkedin.com/posts/elamoscicka_want-to-work-at-microsoft-you-need-to-read-activity-6564764703942332416-OTkS/  
 * Few websites where you can learn coding for FREE: https://www.linkedin.com/posts/elamoscicka_coding-udacity-coding-activity-6646317635426410496-_x8H/  
 * Tips for contacting Recruiters directly: https://www.linkedin.com/posts/elamoscicka_recruiter-talentsourcer-dev-activity-6572015632433373184-duVp/  
+* Remote onboarding? Here are 6 tips how to not go crazy: https://elaintech.com/2020/12/20/remote-onboarding-here-are-6-tips-how-to-not-go-crazy/
 
 
 ## Preparing for interviews💻
+* How to prepare for a technical interview (and a "live coding" part) for a Software Engineer role?: https://elaintech.com/2021/01/03/how-to-prepare-for-a-technical-interview-and-live-coding-part-for-software-engineer-role/
 * Tips to get hired & Interview preparation: https://www.linkedin.com/posts/elamoscicka_protip-developers-interviews-activity-6584331249324826624-lxNP/  
 * Microsoft Mock Interview: https://www.linkedin.com/posts/elamoscicka_microsoft-mock-interview-activity-6645952422537768961-nvsJ/  
 * How to ace a technical interview at Microsoft?: https://www.linkedin.com/posts/elamoscicka_how-to-ace-a-technical-interview-at-microsoft-activity-6555343156681027584-LG_s/  
@@ -27,6 +29,7 @@
 
 
 ## Open Source🗺️
+* Code Newbies, here are 4 things you can start doing on GitHub now!: https://elaintech.com/2021/02/01/code-newbies-4-things-start-doing-on-github-now/
 * Summary of discussion Panel "Let’s talk about Open Source!": https://www.linkedin.com/posts/elamoscicka_umbracoroadshow-opensource-github-activity-6523814996118503424-TEI3/  
 * Adam Sitnik presentation about his awesome journey with Open Source: https://www.linkedin.com/posts/elamoscicka_adam-sitnik-my-awesome-journey-with-open-activity-6630378387686989825-__UT/  
 
