@@ -22,6 +22,7 @@
 
 
 ## Social media / CV📋
+* How to write a CV?: https://elaintech.com/2021/05/18/how-to-write-a-cv/  
 * Not sure what your LinkedIn profile should look like? Here's my post with 14 tips on how you can improve it!: https://elaintech.com/2020/12/20/14-tips-to-get-the-most-out-of-your-linkedin-profile/
 * When it's a good time to start building your personal brand (and why you should care about it?): https://www.linkedin.com/posts/elamoscicka_personalbrand-100daysofcode-301daysofcode-activity-6676387196192206848-zOXY  
 * Adding additional activity: https://www.linkedin.com/posts/elamoscicka_candidates-meetup-tech-activity-6566938700264148993-sWSF/ 
