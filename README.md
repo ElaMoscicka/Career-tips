@@ -4,6 +4,7 @@
 ## General📚
 * My journey into Software Engineering: https://elaintech.com/2020/12/20/my-journey-into-software-engineering/  
 * "Becoming a Software Engineer at Microsoft [Q&A]" where I'm answering the 15 most common questions I'm receiving from Developers interested in joining Microsoft: https://elaintech.com/2021/03/29/becoming-a-software-engineer-at-microsoft/  
+* "Job search preparation checklist": https://elaintech.com/2021/06/14/job-search-preparation-checklist/
 * "How to look for a job?": https://elaintech.com/2021/04/19/how-to-look-for-a-job/
 * "Idealny Kandydat?" - for Recruiters and Software Engineers. We discussed recruitment process at Microsoft, CV, Social Media, work with Hiring Managers, building personal brand online & more. Podcast in Polish language only: https://devsession.pl/idealny-kandydat-ela-moscicka/  
 * Want to work at Microsoft? You need to read this: https://www.linkedin.com/posts/elamoscicka_want-to-work-at-microsoft-you-need-to-read-activity-6564764703942332416-OTkS/  
