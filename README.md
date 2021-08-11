@@ -11,7 +11,8 @@
 * Want to work at Microsoft? You need to read this: https://www.linkedin.com/posts/elamoscicka_want-to-work-at-microsoft-you-need-to-read-activity-6564764703942332416-OTkS/  
 * Few websites where you can learn coding for FREE: https://www.linkedin.com/posts/elamoscicka_coding-udacity-coding-activity-6646317635426410496-_x8H/  
 * Tips for contacting Recruiters directly: https://www.linkedin.com/posts/elamoscicka_recruiter-talentsourcer-dev-activity-6572015632433373184-duVp/  
-* Remote onboarding? Here are 6 tips how to not go crazy: https://elaintech.com/2020/12/20/remote-onboarding-here-are-6-tips-how-to-not-go-crazy/
+* Remote onboarding? Here are 6 tips how to not go crazy: https://elaintech.com/2020/12/20/remote-onboarding-here-are-6-tips-how-to-not-go-crazy/  
+* "Hiring Managers, you're doing it wrong!": https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/
 
 
 ## Preparing for interviews💻
