@@ -16,7 +16,8 @@
 
 
 ## Preparing for interviews💻
-* How to prepare for a technical interview (and a "live coding" part) for a Software Engineer role?: https://elaintech.com/2021/01/03/how-to-prepare-for-a-technical-interview-and-live-coding-part-for-software-engineer-role/
+* How to prepare for a technical interview (and a "live coding" part) for a Software Engineer role?: https://elaintech.com/2021/01/03/how-to-prepare-for-a-technical-interview-and-live-coding-part-for-software-engineer-role/  
+* Interview preparation checklist: https://elaintech.com/2021/09/13/interview-preparation-checklist/  
 * Tips to get hired & Interview preparation: https://www.linkedin.com/posts/elamoscicka_protip-developers-interviews-activity-6584331249324826624-lxNP/  
 * Microsoft Mock Interview: https://www.linkedin.com/posts/elamoscicka_microsoft-mock-interview-activity-6645952422537768961-nvsJ/  
 * How to ace a technical interview at Microsoft?: https://www.linkedin.com/posts/elamoscicka_how-to-ace-a-technical-interview-at-microsoft-activity-6555343156681027584-LG_s/  
