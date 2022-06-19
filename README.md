@@ -12,7 +12,8 @@
 * Few websites where you can learn coding for FREE: https://www.linkedin.com/posts/elamoscicka_coding-udacity-coding-activity-6646317635426410496-_x8H/  
 * Tips for contacting Recruiters directly: https://www.linkedin.com/posts/elamoscicka_recruiter-talentsourcer-dev-activity-6572015632433373184-duVp/  
 * Remote onboarding? Here are 6 tips how to not go crazy: https://elaintech.com/2020/12/20/remote-onboarding-here-are-6-tips-how-to-not-go-crazy/  
-* "Hiring Managers, you're doing it wrong!": https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/
+* "Hiring Managers, you're doing it wrong!": https://elaintech.com/2021/08/09/hiring-managers-youre-doing-it-wrong/  
+* Red flags in a job interview: https://elaintech.com/2021/12/13/red-flags-in-a-job-interview/  
 
 
 ## Preparing for interviews💻
@@ -21,7 +22,7 @@
 * Tips to get hired & Interview preparation: https://www.linkedin.com/posts/elamoscicka_protip-developers-interviews-activity-6584331249324826624-lxNP/  
 * Microsoft Mock Interview: https://www.linkedin.com/posts/elamoscicka_microsoft-mock-interview-activity-6645952422537768961-nvsJ/  
 * How to ace a technical interview at Microsoft?: https://www.linkedin.com/posts/elamoscicka_how-to-ace-a-technical-interview-at-microsoft-activity-6555343156681027584-LG_s/  
-* Candidate, come prepared and ask your questions during interview: https://www.linkedin.com/posts/elamoscicka_candidates-recruiter-100daysofcode-activity-6653918120329248770-q1my/  
+* Questions to ask in a job interview: https://elaintech.com/2021/10/18/questions-to-ask-in-a-job-interview/  
 * Why "Learn-It-All" is more important than "Know-It-All": https://www.linkedin.com/posts/elamoscicka_dont-be-a-know-it-all-be-a-learn-it-all-activity-6628557829483696128-w1ek/  
 
 
@@ -35,7 +36,8 @@
 
 
 ## Open Source🗺️
-* Code Newbies, here are 4 things you can start doing on GitHub now!: https://elaintech.com/2021/02/01/code-newbies-4-things-start-doing-on-github-now/
+* Code Newbies, here are 4 things you can start doing on GitHub now!: https://elaintech.com/2021/02/01/code-newbies-4-things-start-doing-on-github-now/  
+* 6 myths about contributing to open source: https://elaintech.com/2022/02/07/6-myths-about-contributing-to-open-source/  
 * Summary of discussion Panel "Let’s talk about Open Source!": https://www.linkedin.com/posts/elamoscicka_umbracoroadshow-opensource-github-activity-6523814996118503424-TEI3/  
 * Adam Sitnik presentation about his awesome journey with Open Source: https://www.linkedin.com/posts/elamoscicka_adam-sitnik-my-awesome-journey-with-open-activity-6630378387686989825-__UT/  
 
